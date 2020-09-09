@@ -10,3 +10,4 @@
 - ⚡ Fun fact: Elon Musk was born 69 days after 4/20.
 
 ![Utkarsh's Github Stats](https://github-readme-stats.vercel.app/api?username=skhiearth&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skhiearth&layout=compact)](https://github.com/skhiearth/github-readme-stats)
