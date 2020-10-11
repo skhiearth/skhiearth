@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently exploring the fascinating world of AI and Blockchain.
 - 🌱 Working on multiple cross-domain projects.
-- 👯 I’m looking to collaborate on Data Science projects.
+- 👯 I’m looking to collaborate on Data Science and iOS projects.
 - 🤔 I’m looking for help with UI/UX Designing.
 - 💬 Ask me about Startups and Tech.
 - 📫 How to reach me: Send a DM at [@skhiearth](https://www.linkedin.com/in/skhiearth).
