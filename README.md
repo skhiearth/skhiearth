@@ -9,4 +9,3 @@
 - 😄 Pronouns: He/Him
 
 ![Utkarsh's Github Stats](https://github-readme-stats.vercel.app/api?username=skhiearth&show_icons=true&hide_border=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skhiearth&layout=compact&theme=dracula)](https://github.com/skhiearth/github-readme-stats)
