@@ -10,4 +10,4 @@
 
 ![Utkarsh's Github Stats](https://github-readme-stats.vercel.app/api?username=skhiearth&show_icons=true&hide_border=true&theme=gruvbox)
 
-March 2021: <br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=skhiearth.skhiearth)<br>
+<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=skhiearth.skhiearth)<br>
