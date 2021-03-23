@@ -8,6 +8,10 @@
 - 📫 How to reach me: Send a DM at [@skhiearth](https://www.linkedin.com/in/skhiearth).
 - 😄 Pronouns: He/Him
 
-![Utkarsh's Github Stats](https://github-readme-stats.vercel.app/api?username=skhiearth&show_icons=true&hide_border=true&theme=gruvbox)
+<p align=center>
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=skhiearth&show_icons=true&theme=gruvbox">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skhiearth&layout=compact&theme=gruvbox">
+</p>
 
 <br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=skhiearth.skhiearth)<br>
+  
