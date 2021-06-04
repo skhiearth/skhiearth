@@ -14,5 +14,5 @@
     <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skhiearth&layout=compact&theme=gruvbox">
 </p>
 
-<br><p align="right">![](https://visitor-badge.laobi.icu/badge?page_id=skhiearth.skhiearth)<br>
+<br><p align="right">Last month: ![](https://visitor-badge.laobi.icu/badge?page_id=skhiearth.skhiearth)<br>
   
