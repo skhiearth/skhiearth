@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently exploring the fascinating world of AI and Blockchain.
-- 📆 Building the future of blockchain as a Blockchain Analyst @Polygon (Previously Matic Network)
+- 📆 Driving change with blockchain as a Blockchain Analyst @Polygon (Previously Matic Network)
 - 🌱 Working on multiple cross-domain projects.
 - 👯 I’m looking to collaborate on Data Science and iOS projects.
 - 🤔 I’m looking for help with UI/UX Designing.
