@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I'm currently exploring the fascinating world of AI and Blockchain.
+- 🔭 I'm currently exploring the fascinating world of AI and Blockchain
 - 📆 Driving change with blockchain as a Blockchain Analyst @Polygon (Previously Matic Network)
-- 🌱 Working on multiple cross-domain projects.
-- 👯 I’m looking to collaborate on Data Science and iOS projects.
-- 🤔 I’m looking for help with UI/UX Designing.
-- 💬 Ask me about Startups and Tech.
-- 📫 How to reach me: Send a DM at [@skhiearth](https://www.linkedin.com/in/skhiearth).
+- 🌱 Working on multiple cross-domain projects at a hackathon near you 
+- 👯 I’m looking to collaborate on Data Science and iOS projects
+- 🤔 I’m looking for help with UI/UX Designing and Animation
+- 💬 Ask me about Startups, Space, Finance and Tech
+- 📫 How to reach me: Send a DM at [@skhiearth](https://www.linkedin.com/in/skhiearth)
 - 😄 Pronouns: He/Him
 
 <p align=center>
