@@ -3,9 +3,10 @@
 - 🔭 I'm currently exploring the fascinating world of AI and Blockchain
 - 📆 Driving change with blockchain as a Blockchain Analyst @Polygon (Previously Matic Network)
 - 🌱 Working on multiple cross-domain projects at a hackathon near you 
-- 👯 I’m looking to collaborate on Data Science and iOS projects
-- 🤔 I’m looking for help with UI/UX Designing and Animation
+- 👯 I’m looking to collaborate on Data Science and iOS/web3 projects
+- 🤔 I’m looking for help with Animation and 3D modeling
 - 💬 Ask me about Startups, Space, Finance and Tech
+- 🌙 Probably losing sleep thinking about the many-worlds interpretation of quantum mechanics
 - 📫 How to reach me: Send a DM at [@skhiearth](https://www.linkedin.com/in/skhiearth)
 - 😄 Pronouns: He/Him
 
