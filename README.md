@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on Data Science and iOS/web3 projects
 - 🤔 I’m looking for help with Animation and 3D modeling
 - 💬 Ask me about Startups, Space, Finance and Tech
+- 🔒 Ardent supporter of user privacy rights and piracy controls
 - 🌙 Probably losing sleep thinking about the many-worlds interpretation of quantum mechanics
 - 📫 How to reach me: Send a DM at [@skhiearth](https://www.linkedin.com/in/skhiearth)
 - 😄 Pronouns: He/Him
